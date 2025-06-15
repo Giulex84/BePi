@@ -1,61 +1,60 @@
-# 🌐 BePi — Reward DApp on Pi Network (EN / ITA)
+# 🌐 BePi — DApp for Pi Network Domains (EN / ITA)
 
-> ⚡ Guadagna token Pi per azioni semplici. Earn Pi tokens for simple actions.
+![Vercel Deploy](https://img.shields.io/badge/Live%20on-Vercel-00C7B7?logo=vercel&style=for-the-badge)
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
+![Made with React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
 
-## 🚀 Live App
-🔗 [Open BePi DApp](https://v0-new-project-iawcvdaq040.vercel.app)
+> ⚡ Manage your Pi blockchain identity with style — earn as you interact!
+
+---
+
+## 🚀 Live App  
+🔗 [Open BePi DApp](https://v0-new-project-iawcvdaq040.vercel.app/)
+
+---
+
+## 🇬🇧 English
+
+### 🔍 What is BePi?
+
+**BePi** is a decentralized web application (DApp) built on the Pi Network ecosystem. It allows users to:
+
+- Create and manage a **Pi Standard Wallet**
+- Receive and link **decentralized domains** (e.g., `.pi`)
+- Prepare for integration with the official **Pi Browser**
+
+> Simple, secure, Pi-native.
+
+### 🛠️ Features
+
+- ✅ Minimal, fast and responsive UI  
+- 🔐 Secure by design: no private keys stored  
+- 🧠 Ready for Pi SDK authentication  
+- 🌍 Multilingual interface (English + Italian)  
 
 ---
 
 ## 🇮🇹 Italiano
 
 ### 🔍 Cos'è BePi?
-**BePi** è una DApp decentralizzata basata su Web3 e pensata per la **blockchain Pi Network**, che premia gli utenti per:
 
-- 👀 Guardare pubblicità
-- 📲 Condividere l'app
-- ✅ Completare attività o missioni
+**BePi** è un'applicazione web decentralizzata (DApp) costruita sull’ecosistema Pi Network. Consente agli utenti di:
 
-> Guadagna token Pi semplicemente usando l'app!
+- Creare e gestire un **wallet standard Pi**
+- Ricevere e collegare **domini decentralizzati** (es. `.pi`)
+- Prepararsi all’integrazione con il **Pi Browser ufficiale**
 
----
+> Semplice, sicura, nativa per Pi.
 
-### 🏁 Obiettivi
-- 💸 Engagement = Ricompense
-- 🌐 Accessibilità totale: funziona su Pi Browser
-- 🔁 Token economy sostenibile
-- 🔐 Sicurezza e compatibilità Web3
+### 🛠️ Caratteristiche
 
----
-
-### 🛠 Funzionalità principali
-- ✅ Interfaccia moderna, veloce e responsive
-- 🧠 Pronta per l'autenticazione con Pi SDK
-- 🔐 Nessuna memorizzazione di chiavi private
-- 🌍 Interfaccia multilingua (ITA / ENG)
+- ✅ Interfaccia minimale, veloce e reattiva  
+- 🔐 Sicura per design: nessuna chiave privata memorizzata  
+- 🧠 Pronta per l'autenticazione tramite Pi SDK  
+- 🌍 Interfaccia multilingua (Inglese + Italiano)  
 
 ---
 
-### 🔧 Stack Tecnologico
-- ⚛️ React (Next.js)
-- 💨 Tailwind CSS
-- 🔗 Web3.js
-- ⛓ Smart Contracts (in arrivo)
-- 🌐 Vercel Deploy
+## 📄 License
 
----
-
-### 🔐 Sicurezza
-- HTTPS attivo su tutta l’app
-- Nessuna chiave salvata in chiaro
-- Pronto per future firme/identità via Pi Browser
-
----
-
-### 🧪 Setup locale
-
-```bash
-git clone https://github.com/Giulex84/BePi.git
-cd BePi
-npm install
-npm run dev
+This project is released under the [MIT License](LICENSE).
