@@ -8,3 +8,15 @@ function App() {
 }
 
 export default App;
+import KeyValidator from './components/KeyValidator';
+
+function App() {
+  return (
+    <div className="App">
+      <KeyValidator />
+      {/* altri componenti */}
+    </div>
+  );
+}
+
+export default App;
